@@ -6,5 +6,5 @@
 
 <div align="center"; style="display: flex; flex-direction: row;">
 <a href="https://www.githubtrends.io/wrapped/hramaroson">
-<img src="https://api.githubtrends.io/user/svg/hramaroson/langs?time_range=one_year&theme=ferns" />
+<img src="https://api.githubtrends.io/user/svg/hramaroson/langs?time_range=one_year&compact=True&theme=dark" />
 </a>
